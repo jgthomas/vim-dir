@@ -1,0 +1,15 @@
+[submodule "pack/plugins/start/vim-haskell-indent"]
+	path = pack/plugins/start/vim-haskell-indent
+	url = https://github.com/itchyny/vim-haskell-indent
+[submodule "pack/plugins/start/vim-gas"]
+	path = pack/plugins/start/vim-gas
+	url = https://github.com/Shirk/vim-gas
+[submodule "pack/plugins/vim-asm-indent"]
+	path = pack/plugins/vim-asm-indent
+	url = https://github.com/philj56/vim-asm-indent
+[submodule "pack/plugins/start/vim-snazzy"]
+	path = pack/plugins/start/vim-snazzy
+	url = https://github.com/connorholyday/vim-snazzy
+[submodule "pack/plugins/start/gruvbox"]
+	path = pack/plugins/start/gruvbox
+	url = https://github.com/morhetz/gruvbox

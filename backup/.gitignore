@@ -1,0 +1,3 @@
+# ensures this directory is included
+*
+!.gitignore

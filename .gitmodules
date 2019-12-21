@@ -28,6 +28,6 @@
 [submodule "pack/plugins/start/vim-stylishask"]
 	path = pack/plugins/start/vim-stylishask
 	url = https://github.com/alx741/vim-stylishask
-[submodule "pack/plugins/start/haskell-vim"]
-	path = pack/plugins/start/haskell-vim
-	url = https://github.com/neovimhaskell/haskell-vim
+[submodule "pack/plugins/start/vim-haskell-indent"]
+	path = pack/plugins/start/vim-haskell-indent
+	url = https://github.com/itchyny/vim-haskell-indent

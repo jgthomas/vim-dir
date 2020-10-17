@@ -25,9 +25,9 @@
 [submodule "pack/plugins/start/vim-asm-indent"]
 	path = pack/plugins/start/vim-asm-indent
 	url = https://github.com/philj56/vim-asm-indent
-[submodule "pack/plugins/start/vim-stylishask"]
-	path = pack/plugins/start/vim-stylishask
-	url = https://github.com/alx741/vim-stylishask
 [submodule "pack/plugins/start/vim-haskell-indent"]
 	path = pack/plugins/start/vim-haskell-indent
 	url = https://github.com/itchyny/vim-haskell-indent
+[submodule "pack/plugins/start/vim-ormolu.git"]
+	path = pack/plugins/start/vim-ormolu.git
+	url = https://github.com/sdiehl/vim-ormolu.git

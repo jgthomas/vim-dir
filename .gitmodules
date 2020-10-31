@@ -34,3 +34,6 @@
 [submodule "pack/plugins/start/dhall-vim.git"]
 	path = pack/plugins/start/dhall-vim.git
 	url = https://github.com/vmchale/dhall-vim.git
+[submodule "pack/plugins/start/fzf.vim.git"]
+	path = pack/plugins/start/fzf.vim.git
+	url = https://github.com/junegunn/fzf.vim.git
